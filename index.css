@@ -1,0 +1,33 @@
+*{
+	font-family: sans-serif;
+}
+
+body { 
+	background-color: rgb(200, 200, 200);
+}
+
+.bg {
+	width: 1000px;
+	height: 600px;
+	border: 1px solid #000;
+	margin-left: calc(100% - 1183px);
+}
+
+.h {
+	font-size: 20px;
+	font-family: sans-serif;
+	text-align: center;
+}
+
+.scr {
+	height: 100%;
+}
+
+h2 {
+	text-align: center;
+}
+
+.s {
+	height: 500px;
+	border: 1px solid #FFF;
+}
